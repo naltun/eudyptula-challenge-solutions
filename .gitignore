@@ -1,0 +1,15 @@
+# Development environment
+.vagrant
+.vscode
+Vagrantfile
+
+# Module artifacts
+.tmp_versions
+.task-*.ko.cmd
+.task-*.mod*
+.task-*.o*
+Module.symvers
+modules.order
+task-*.ko
+task-*.mod*
+task-*.o
